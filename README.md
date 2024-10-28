@@ -1,0 +1,1 @@
+# captador-de-temperatura
